@@ -1,0 +1,6 @@
+#edeef0 (main background)
+green
+#e1e5eb(text-selection and hover-light blue)
+#507299(light blue-for buttons like and comment)
+#2e5473(header--bluish)
+#d0d0d0(light gray for borders and highlights)
